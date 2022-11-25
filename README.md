@@ -8,7 +8,7 @@ Here will display part of the datasets and outcomes of this field.
 ## Field Introduction & Datasets
 Due to the privacy, we can only show the first floor plane of the car sales center.
 
-![Field_plane](https://github.com/JackyWeng526/Multi_Objective_Comfort_Control/tree/main/docs/Field_plane.JPG)
+![Field_plane](https://github.com/JackyWeng526/Multi_Objective_Comfort_Control/docs/Field_plane.JPG)
 
 And only one of the VRV datasets (about 2 months) can be shared in this repository.
 
