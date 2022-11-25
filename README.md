@@ -17,8 +17,11 @@ And only one of the VRV datasets (about 2 months) can be shared in this reposito
 ## Methodology & Results of Multi_Objective_Comfort_Control
 The details of the methodology can refer to my github [@Jacky Weng](https://github.com/JackyWeng526):
   。[@MPC applications](https://github.com/JackyWeng526/Predictive_Control_for_Thermal_comfort)
+  
   。[@Microclimate applications](https://github.com/JackyWeng526/Taiwan_Weather_Data)
+  
   。[@AIoT applications](https://github.com/JackyWeng526/Raspberry_Modbus_Data_Logger)
+  
   。[@Remote control applications](https://github.com/JackyWeng526/Support_AI_service_with_MQTT)
 
 The brief outcomes of the lightweight Comfort Control Module in part of areas is shown as:
