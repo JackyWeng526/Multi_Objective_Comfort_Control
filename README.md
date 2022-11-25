@@ -8,7 +8,7 @@ Here will display part of the datasets and outcomes of this field.
 ## Field Introduction & Datasets
 Due to the privacy, we can only show the first floor plane of the car sales center.
 
-![floor plane](https://github.com/JackyWeng526/Multi_Objective_Comfort_Control/tree/main/docs/Field_plane.JPG)
+![Field_plane](https://github.com/JackyWeng526/Multi_Objective_Comfort_Control/docs/Field_plane.JPG)
 
 And only one of the VRV datasets (about 2 months) can be shared in this repository.
 
@@ -16,9 +16,13 @@ And only one of the VRV datasets (about 2 months) can be shared in this reposito
 
 ## Methodology & Results of Multi_Objective_Comfort_Control
 The details of the methodology can refer to my github [@Jacky Weng](https://github.com/JackyWeng526):
+
   。[@MPC applications](https://github.com/JackyWeng526/Predictive_Control_for_Thermal_comfort)
+  
   。[@Microclimate applications](https://github.com/JackyWeng526/Taiwan_Weather_Data)
+  
   。[@AIoT applications](https://github.com/JackyWeng526/Raspberry_Modbus_Data_Logger)
+  
   。[@Remote control applications](https://github.com/JackyWeng526/Support_AI_service_with_MQTT)
 
 The brief outcomes of the lightweight Comfort Control Module in part of areas is shown as:
