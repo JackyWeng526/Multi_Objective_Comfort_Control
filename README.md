@@ -36,7 +36,7 @@ The indoor air temperature is stablized by the module control:
 The energy usage of the VRVs and energy costs are reduced:
 ![Energy_Performance](https://github.com/JackyWeng526/Multi_Objective_Comfort_Control/tree/main/docs/Energy_Performance.JPG)
 ![Monthly_Energy_Usage](https://github.com/JackyWeng526/Multi_Objective_Comfort_Control/tree/main/docs/Monthly_Energy_Usage.JPG)
-![Monthly_Energy_Cost](https://github.com/JackyWeng526/Multi_Objective_Comfort_Control/tree/main/docs/Monthly_Energy_Cost.PNG)
+![Monthly_Energy_Cost](https://github.com/JackyWeng526/Multi_Objective_Comfort_Control/docs/Monthly_Energy_Cost.PNG)
 
 
 ## Authors
